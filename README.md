@@ -97,16 +97,16 @@ To learn more about React Native, take a look at the following resources:
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
 
-App's screenshots
-Home Screen
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-19 at 19 25 51](https://github.com/user-attachments/assets/d522d0bd-f87e-431c-9e32-fc91bea73871)
+## App's screenshots
 
-Product detail:!
-[Simulator Screenshot - iPhone 16 Pro - 2025-05-19 at 19 25 55](https://github.com/user-attachments/assets/1dfb40d7-e020-4921-a499-834e0e4804f4)
+### Home Screen
+<img src="https://github.com/user-attachments/assets/d522d0bd-f87e-431c-9e32-fc91bea73871" width="300" />
 
-Chats:
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-19 at 19 25 58](https://github.com/user-attachments/assets/da717202-943b-4243-b121-9028e3048a5a)
+### Product Detail
+<img src="https://github.com/user-attachments/assets/1dfb40d7-e020-4921-a499-834e0e4804f4" width="300" />
 
+### Chats
+<img src="https://github.com/user-attachments/assets/da717202-943b-4243-b121-9028e3048a5a" width="300" />
 
 
 
